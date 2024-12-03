@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">Start!</string>
+    <string name="history_quiz">History quiz</string>
+    <string name="bad">Bad</string>
+    <string name="unsatisfactory">Unsatisfactory</string>
+    <string name="satisfactory">Satisfactory</string>
+    <string name="good">Good</string>
+    <string name="excellent">Excellent</string>
+    <string name="not_russian">You aren\'t russian right?</string>
+    <string name="grade">Grade: %s</string>
+    <string name="result">Result: %s</string>
+</resources>
